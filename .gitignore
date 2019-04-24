@@ -1,0 +1,8 @@
+.floydignore
+.floydexpt
+.floyddata
+floyd.yml
+/.vscode
+/__pycache__
+/processed
+/checkpoints
